@@ -585,9 +585,3 @@ print(max(strikes, key=strikes.get))
     
 ![png](output_files/output_8_1.png)
     
-
-
-
-```python
-
-```
